@@ -6,7 +6,7 @@
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/WilsonLimPH)
 
 ------
-🎓 Institute of Cognitive Neuroscience PhD/MPhil | University College London | United Kingdom 🇬🇧 \
+🎓 Institute of Cognitive Neuroscience PhD Candidate | University College London | United Kingdom 🇬🇧 \
 🎓 MRes Cognitive Neuroscience | University College London | United Kingdom 🇬🇧 
 
 Previously: 💼 Research Associate | 🧠 Clinical Brain Lab, Nanyang Technological University | Singapore 🇸🇬 
